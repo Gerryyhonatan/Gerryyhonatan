@@ -29,4 +29,4 @@ I love sharing insights and connecting with like-minded individuals. Let’s con
   <img align="center" alt="Gerry-VS" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
   <img align="center" alt="Gerry-Git" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
 </div><br>
-##
+
