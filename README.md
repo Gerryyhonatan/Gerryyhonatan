@@ -1,5 +1,3 @@
-# Hi 👋! I'm Gerry
-
 Hi, I’m Gerry Yhonatan! 👋
 
 I’m a 5th-semester Bachelor’s student in Information Systems at Universitas Kristen Satya Wacana. I have a deep passion for technology and always strive to stay updated with the latest trends. Currently, I’m focusing on honing my skills in Web Development to expand my expertise in the digital industry.
@@ -29,4 +27,11 @@ I love sharing insights and connecting with like-minded individuals. Let’s con
   <img align="center" alt="Gerry-VS" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
   <img align="center" alt="Gerry-Git" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
 </div><br>
+
+<div align="center" style="display: flex; justify-content: center;">
+  <a href="https://github.com/Gerryyhonatan">
+    <img height="195px" src="https://github-readme-stats.vercel.app/api?username=Gerryyhonatan&show_icons=true&theme=one_dark_pro&include_all_commits=true&count_private=true"/>
+    <img height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gerryyhonatan&layout=compact&langs_count=7&theme=one_dark_pro"/>
+  </a>
+</div>
 
