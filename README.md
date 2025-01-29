@@ -26,11 +26,15 @@ I love sharing insights and connecting with like-minded individuals. Let’s con
   <img align="center" alt= "Gerry-Postman" height="60" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg">       
   <img align="center" alt="Gerry-VS" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
   <img align="center" alt="Gerry-Git" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
+  <img align="center" alt="Gerry-Figma" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg">
 </div><br>
 
 <div style="display: flex;">
   <a href="https://github.com/Gerryyhonatan">
     <img height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gerryyhonatan&layout=compact&langs_count=7&theme=one_dark_pro"/>
   </a>
-</div>
+</div><br>
 
+<div align="left">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Gerryyhonatan&theme=github-compact&radius=16" height="auto" alt="Gerryyhonatan"/>
+</div>
