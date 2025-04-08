@@ -1,6 +1,6 @@
 Hi, I’m Gerry Yhonatan! 👋
 
-I’m a 5th-semester Bachelor’s student in Information Systems at Universitas Kristen Satya Wacana. I have a deep passion for technology and always strive to stay updated with the latest trends. Currently, I’m focusing on honing my skills in Web Development to expand my expertise in the digital industry.
+I’m a 6th-semester Bachelor’s student in Information Systems at Universitas Kristen Satya Wacana. I have a deep passion for technology and always strive to stay updated with the latest trends. Currently, I’m focusing on honing my skills in Web Development to expand my expertise in the digital industry.
 
 I love sharing insights and connecting with like-minded individuals. Let’s connect and grow together! 🚀🔥
 
@@ -17,6 +17,7 @@ I love sharing insights and connecting with like-minded individuals. Let’s con
   <img align="center" alt="Gerry-HTML" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Gerry-CSS" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Gerry-Js" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Gerry-Js" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg">
   <img align="center" alt="Gerry-React" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"">
   <img align="center" alt="Gerry-Express" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg">
   <img align="center" alt="Gerry-Next" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg">
